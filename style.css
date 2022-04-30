@@ -1,0 +1,39 @@
+body{
+    background-color:#57ffd8;
+}
+
+h1{
+    color:#ff578c;
+    background-color:#f7ff57;
+    font-family: Snell Roundhand, cursive;
+}
+#label{
+    font-weight: 600;
+    font-size: 25px;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+}
+
+#confidence{
+    font-weight: 600;
+    font-size:  25px;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+}
+
+#sketch_name{
+    font-weight: 600;
+    font-size:  25px;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+}
+
+#score{
+    font-weight: 600;
+    font-size:  25px;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+}
+
+
+#time{
+    font-weight: 600;
+    font-size:  25px;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+}   
