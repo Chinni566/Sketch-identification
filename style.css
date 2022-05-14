@@ -32,14 +32,18 @@ h1{
 }
 
 
-#time{
+#timer{
     font-weight: 600;
     font-size:  25px;
     font-family: Brush Script MT, Brush Script Std, cursive;
 }    
 
-#time{
+#timer{
     float: right ;
+}
+
+#score{
+    float:left ;
 }
 
 canvas{
@@ -47,7 +51,7 @@ canvas{
     border-radius: 20px;
     animation-name:example;
     animation-duration:4s;
-    margin-top: 50px;
+    margin-top: 90px;
     animation-iteration-count: infinite;
 }
 
